@@ -10,7 +10,7 @@ public class homework1 {
 		int n = in.nextInt();
 		for (int i = 1; i <= 10; i++) {
 			System.out.println(n + " * " + i + " = " + (n * i));
-
+			//2
 		}
 		
 		
