@@ -8,7 +8,7 @@ public class homework1 {
 		Scanner in = new Scanner(System.in);
 		System.out.println("Ввести номер: ");
 		int n = in.nextInt();
-		for (int i = 1; i <= 10; i++) {
+		for (int i = 2; i <= 10; i++) {
 			System.out.println(n + " * " + i + " = " + (n * i));
 
 		}
