@@ -6,7 +6,7 @@ public class homework2 {
 		// TODO Auto-generated method stub
 		System.out.println("¬вести номер: ");
 		
-		//1
+		//1 2
 		
 	}
 
