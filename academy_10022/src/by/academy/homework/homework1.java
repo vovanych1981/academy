@@ -6,13 +6,18 @@ public class homework1 {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-		System.out.println("Ввести номер: ");
+		System.out.println("Введитк : ");
 		int n = in.nextInt();
-		for (int i = 2; i <= 10; i++) {
+		for (int i = 1; i <= 10; i++) {
 			System.out.println(n + " * " + i + " = " + (n * i));
 
 		}
 		
+		
+		
+	
+	
+	
 	}
 
 }
